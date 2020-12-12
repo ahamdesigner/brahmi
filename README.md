@@ -1,2 +1,3 @@
 # brahmi
-script of all script accessible to all languages
+script of all script uni language support direct translation
+to any language
