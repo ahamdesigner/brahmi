@@ -1,3 +1,3 @@
-# brahmi
-script of all script uni language support direct translation
-to any language
+# ब्रह्मी क्रमादेश
+पारायणं करोति  अनन्य वाणी आधार निरन्तर अवतार
+प्रति कश्चन शब्द
